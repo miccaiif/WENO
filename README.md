@@ -5,4 +5,3 @@ Official PyTorch implementation of our NeurIPS 2022 paper: **[Bi-directional Wea
   <img src="https://github.com/miccaiif/WENO/blob/main/figure3.jpg" width="640">
 </p>
 
-On Updating.
